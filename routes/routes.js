@@ -39,7 +39,7 @@ import {
   createTripSettings,
   getTripSettings,
   updateTripSettings,
-} from "../models/TripSettings.js";
+} from "../controllers/Live/TripSettings.js";
 
 const router = Router();
 
