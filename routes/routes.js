@@ -2,7 +2,7 @@ import { Router } from "express";
 
 // Admin
 import AdminLogin from "../controllers/adminslogin.js";
-import AdminSignup from "../controllers/AdminSignup.js";
+import AdminSignup from "../controllers/adminsignup.js";
 
 // Drivers
 import addDrivers from "../controllers/drivers/addDrivers.js";
